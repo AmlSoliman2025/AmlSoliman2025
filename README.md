@@ -3,7 +3,7 @@
 ## About Me
 🎓 I graduated from Ain Shams University.
 
-💼 Currently working as a Rheumatologist 🧑‍⚕️ & Data analyst📊.
+💼 Currently working as a Rheumatologist 👩‍⚕️ & Data analyst📊.
 
 🌍 I'm based in Port Said - Egypt.
 
