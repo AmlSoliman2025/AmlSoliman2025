@@ -31,7 +31,7 @@ Designed and implemented a SQL database to manage and analyze patient data. Opti
 
 ### Riyadh Hotels Insights Dashboard
 
-Created an Excel dashboard for hotel performance analysis, visualizing key metrics such as occupancy rates, revenue per room, and customer ratings.
+Created an Excel dashboard for hotel performance analysis, visualizing key metrics such as booking methods, cost per night, and customer ratings.
 
 ### Python Data Analysis (Sales )
 
