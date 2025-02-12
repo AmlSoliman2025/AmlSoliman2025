@@ -39,7 +39,7 @@ Used Python (Pandas, NumPy) to clean  data, perform trend analysis.📈
 
 ### Power BI
 
-Excute dashboard for sales data>
+Excute dashboard for sales data
 
 ### Connect with Me
 
