@@ -39,8 +39,9 @@ Used Python (Pandas, NumPy) to clean  data, perform trend analysis.📈
 
 ### Power BI
 
-Blinkit Sales & Marketing Dashboard
-Road Accident Analysis (SQL->> Power Bi)
+- Blinkit Sales & Marketing Dashboard
+
+- Road Accident Analysis (SQL->> Power Bi)
 
 ### Connect with Me
 
