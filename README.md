@@ -33,13 +33,14 @@ Designed and implemented a SQL database to manage and analyze patient data. Opti
 
 Created an Excel dashboard for hotel performance analysis, visualizing guide for Rydiah hotels booking such as booking methods, cost per night, and customer ratings.
 
-### Python Data Analysis (Sales )
+### Python Data Cleaning & Analyzing Supply Chain
 
 Used Python (Pandas, NumPy) to clean  data, perform trend analysis.📈
 
 ### Power BI
 
 Blinkit Sales & Marketing Dashboard
+Road Accident Analysis (SQL->> Power Bi)
 
 ### Connect with Me
 
